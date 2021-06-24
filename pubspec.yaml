@@ -1,0 +1,15 @@
+name: flutter_lint_rules
+description: A set of custom lint rules for Flutter apps and packages.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter_lints: ^1.0.3
+
+  dart_lint_rules:
+    git:
+      url: git@github.com:fabriziocacicia/dart_lint_rules.git
+      ref: v0.0.1
