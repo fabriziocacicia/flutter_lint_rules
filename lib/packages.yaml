@@ -1,4 +1,6 @@
-include: package:flutter_lint_rules/core.yaml
+include:
+  - package:flutter_lint_rules/core.yaml
+  - package:dart_lint_rules/packages.yaml
 
 linter:
   rules:
