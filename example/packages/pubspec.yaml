@@ -1,4 +1,6 @@
 name: packages
+description: An example project that uses the lint rules recommended for Flutter packages.
+version: 0.1.0
 publish_to: none
 
 environment:
