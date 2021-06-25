@@ -5,3 +5,7 @@ include:
 linter:
   rules:
    avoid_print: false
+
+analyzer:
+  errors:
+    public_member_api_docs: warning
