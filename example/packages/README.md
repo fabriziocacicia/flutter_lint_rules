@@ -1,0 +1,1 @@
+An example project that uses the lint rules recommended for Flutter packages.
