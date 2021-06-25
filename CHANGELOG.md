@@ -1,5 +1,9 @@
 ## Unreleased
 
+## 0.0.4
+
+- Fixed another issue that prevented importing the rules defined by this package due to wrong
+  include definition
 
 ## 0.0.3
 
