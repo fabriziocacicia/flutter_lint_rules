@@ -1,3 +1,2 @@
 include:
-  - package:dart_lint_rules/core.yaml
   - package:flutter_lints/flutter.yaml
