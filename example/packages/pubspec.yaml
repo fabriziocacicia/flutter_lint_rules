@@ -1,0 +1,11 @@
+name: packages
+publish_to: none
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  flutter_lint_rules:
+    git:
+      url: git@github.com:fabriziocacicia/flutter_lint_rules.git
+      ref: v0.0.2
