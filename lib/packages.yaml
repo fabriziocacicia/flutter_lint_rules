@@ -2,8 +2,9 @@ include: package:flutter_lint_rules/core.yaml
 
 linter:
   rules:
-   avoid_print: false
+    avoid_print: false
+    public_member_api_docs: true
 
 analyzer:
   errors:
-    public_member_api_docs: warning
+    public_member_api_docs: info

@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Fix the public_member_api_docs rule not working
+
 ## 0.0.4
 
 - Fixed another issue that prevented importing the rules defined by this package due to wrong
