@@ -1,4 +1,6 @@
-## Unreleased
+## 0.1.0
+
+- Updated `flutter_lints` dependency to version 2.0.1
 
 ## 0.0.5
 
