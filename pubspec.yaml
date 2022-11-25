@@ -7,7 +7,7 @@ environment:
   sdk: '>=2.18.0 <3.0.0'
 
 dependencies:
-  flutter_lints: ^1.0.3
+  flutter_lints: ^2.0.1
 
   # Testing
   test: ^1.22.0
