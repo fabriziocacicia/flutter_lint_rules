@@ -1,6 +1,6 @@
 A set of custom lint rules for Flutter apps and packages.
 
-This package is built on top of the set of lints defined by the package [dart_lint_rules](https://github.com/fabriziocacicia/dart_lint_rules).
+This package is built on top of the set of lints defined by the package [flutter_lints](https://pub.dev/packages/flutter_lints).
 
 ## Usage
 
