@@ -1,7 +1,9 @@
-include: package:dart_lint_rules/packages.yaml
+include: package:flutter_lint_rules/packages.yaml
 
 analyzer:
   language:
     strict-casts: true
     strict-inference: true
     strict-raw-types: true
+  exclude:
+    - example*

@@ -17,7 +17,6 @@ out/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
-
 ### macOS template
 # General
 .DS_Store
@@ -38,6 +37,7 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
 
 # Files and directories created by pub.
 .dart_tool/
