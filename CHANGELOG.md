@@ -1,5 +1,6 @@
 ## 0.2.0
 
+- Updated the stricter type checks options to the new format
 - Removed `avoid_print` rule from the `packages` set
 
 ## 0.1.0
