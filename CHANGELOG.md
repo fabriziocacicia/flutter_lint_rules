@@ -1,3 +1,7 @@
+## UNRELEASED
+
+- Removed `avoid_print` rule from the `packages` set
+
 ## 0.1.0
 
 - Updated `flutter_lints` dependency to version 2.0.1
