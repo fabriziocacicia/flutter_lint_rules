@@ -1,4 +1,4 @@
-## UNRELEASED
+## 0.2.0
 
 - Removed `avoid_print` rule from the `packages` set
 
